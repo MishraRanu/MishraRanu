@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - 🔭 I’m currently working on **Coding Skills.**
-- 🌱 I’m currently learning **Competitive programming and DSA.**
+- 🌱 I’m currently learning **C# and .NET**
 - 👯 I’m looking to collaborate on **C++ and Full Stack Web Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/MishraRanu?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 💬 Ask me about **DSA, C++, Frontend and Backend.**
