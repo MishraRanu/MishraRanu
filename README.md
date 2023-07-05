@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Ranu Mishra 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Ranu Mishra.I have a keen interest in DSA, C++ and Full Stack Web Development and have a huge fascination with the inner workings of technology.</h3>
 
-<img align="right" alt="coding" width="300" src="https://drive.google.com/file/d/1JGyXatMPZzABH2v2FORek3NKEqSvCPa9/view?usp=sharing">
+<img align="right" alt="coding" width="300" src="./Girl_Coding.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
