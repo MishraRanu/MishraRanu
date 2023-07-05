@@ -24,8 +24,8 @@
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/i/flow/login?redirect_after_login=%2franumis49915011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/i/flow/login?redirect_after_login=%2franumis49915011" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ranu-mishra-87733918b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranu-mishra-87733918b/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ranummishra29?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ranummishra29?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ranumishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ranumishra/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ranummishra29?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" /></a>
+<a href="https://leetcode.com/RanuMishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ranumishra/" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
